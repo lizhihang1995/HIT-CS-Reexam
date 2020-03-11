@@ -1,0 +1,70 @@
+.markdown-section h1 {
+	font-size: 2.75em;
+	padding-bottom: 8px;
+	border-bottom: 1px solid rgb(202, 202, 202);
+	color: rgb(39, 56, 73);
+}
+.markdown-section h2 {
+	font-size: 2.3333em;
+	color: rgb(39, 56, 73);
+}
+.markdown-section p code,
+.markdown-section ul>li code,
+.markdown-section ol>li code,
+.markdown-section h1>code,
+.markdown-section h2>code,
+.markdown-section h3>code {
+	color: #d63200;
+	padding: 0.2em 0.1em;
+}
+
+.markdown-section pre {
+	margin-top: -5px;
+	margin-bottom: 1em;
+}
+
+.markdown-section li pre {
+	margin: 0.5em 0;
+}
+
+.markdown-section li p {
+	font-size: 16px;
+}
+
+.markdown-section p {
+	font-size: 18px;
+}
+.markdown-section a {
+	font-weight: 600;
+	color: rgb(66, 185, 131);
+}
+.markdown-section pre>code {
+	font-size: 16px;
+}
+.markdow-section p sup {
+	font-size: 70%;
+}
+.markdown-section img {
+	padding-bottom: 15px;
+}
+.markdown-section mark {
+	background: rgb(255, 208, 0);
+}
+
+.book-summary ul.summary li a, 
+.book-summary ul.summary li span {
+	font-size: 16px;
+	padding: 6px 15px;
+}
+.book-summary ul.summary li.active>a {
+	color: rgb(66, 185, 131);
+	font-weight: 600;
+}
+.book .book-summary .exc-trigger {
+	top: 8px;
+}
+
+/* gitbook-plugin-callouts */
+.panel .panel-body p {
+	font-size: 16px;
+}
