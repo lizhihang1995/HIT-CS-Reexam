@@ -29,10 +29,17 @@
 
 .markdown-section li p {
 	font-size: 16px;
+	margin-bottom: 0.2em;
+}
+
+.markdown-section ul p {
+	margin-bottom: 0.2em;
+	margin-top: 0.5em;
 }
 
 .markdown-section p {
-	font-size: 18px;
+	font-size: 16px;
+	margin-bottom: 0.4em;
 }
 .markdown-section a {
 	font-weight: 600;
@@ -41,7 +48,8 @@
 .markdown-section pre>code {
 	font-size: 16px;
 }
-.markdow-section p sup {
+.markdown-section p sup,
+.markdown-section p sub {
 	font-size: 70%;
 }
 .markdown-section img {

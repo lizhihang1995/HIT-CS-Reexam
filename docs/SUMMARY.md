@@ -21,6 +21,11 @@
     - [嵌入式 SQL](./database/embedded-sql.md)
     - [数据建模](./database/data-modeling.md)
     - [数据库设计](./database/database-design.md)
+    - [物理存储](./database/physical-storing.md)
+    - [数据库索引](./database/db-index.md)
+    - [查询实现算法](./database/query-algorithm.md)
+    - [查询优化](./database/query-optimization.md)
+    - [事务处理](./database/transaction.md)
 
 ---
 
