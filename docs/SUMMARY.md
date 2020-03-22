@@ -30,6 +30,11 @@
 ---
 
 * [算法设计与分析](./algorithm/readme.md)
+    - [数学基础](./algorithm/mathematical-basis.md)
+    - [分治算法](./algorithm/divide-and-conquer-algorithm.md)
+    - [动态规划](./algorithm/dynamic-programming.md)
+    - [贪心算法](./algorithm/greedy-algorithm.md)
+    - [回溯法 & 分支定界法](./algorithm/backtracking.md)
 
 ---
 

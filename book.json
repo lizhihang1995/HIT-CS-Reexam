@@ -34,8 +34,8 @@
         "terminal@^0.3.2",
         "alerts@^0.2.0",
         "flexible-alerts",
-        "callouts"
-        
+        "callouts",
+        "katex"
     ],
 
     "pluginsConfig": {

@@ -23,6 +23,10 @@
 	margin-bottom: 1em;
 }
 
+.markdown-section li {
+	line-height: 2;
+}
+
 .markdown-section li pre {
 	margin: 0.5em 0;
 }
@@ -39,14 +43,15 @@
 
 .markdown-section p {
 	font-size: 16px;
-	margin-bottom: 0.4em;
+	margin-bottom: 1em;
+	line-height: 1.8;
 }
 .markdown-section a {
 	font-weight: 600;
 	color: rgb(66, 185, 131);
 }
 .markdown-section pre>code {
-	font-size: 16px;
+	font-size: 14px;
 }
 .markdown-section p sup,
 .markdown-section p sub {
@@ -57,6 +62,9 @@
 }
 .markdown-section mark {
 	background: rgb(255, 208, 0);
+}
+.markdown-section center {
+	margin-bottom: 1em;
 }
 
 .book-summary ul.summary li a, 
