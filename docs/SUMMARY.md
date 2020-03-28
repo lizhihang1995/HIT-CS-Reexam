@@ -39,5 +39,18 @@
 ---
 
 * [离散数学](./discrete-mathematics/README.md)
+    - [集合论](./discrete-mathematics/set-theory/readme.md)
+        + [集合及其运算](./discrete-mathematics/set-theory/set-operation.md)
+        + [映射](./discrete-mathematics/set-theory/mapping.md)
+        + [关系](./discrete-mathematics/set-theory/relation.md)
+    - [图论](./discrete-mathematics/graph-theory/readme.md)
+        + [基本概念](./discrete-mathematics/graph-theory/concepts.md)
+        + [树](./discrete-mathematics/graph-theory/tree.md)
+        + [平面图 & 图的着色](./discrete-mathematics/graph-theory/flat-graph-and-coloring.md)
+        + [有向图](./discrete-mathematics/graph-theory/directed-graph.md)
+    - [数理逻辑](./discrete-mathematics/mathematical-logic/readme.md)
+        + [命题逻辑](./discrete-mathematics/mathematical-logic/propositional-logic.md)
+    - [近世代数](./discrete-mathematics/modern-algebra/readme.md)
+    - [真题](./discrete-mathematics/asked-questions.md)
 
 
