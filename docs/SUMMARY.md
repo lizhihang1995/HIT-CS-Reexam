@@ -51,6 +51,8 @@
     - [数理逻辑](./discrete-mathematics/mathematical-logic/readme.md)
         + [命题逻辑](./discrete-mathematics/mathematical-logic/propositional-logic.md)
     - [近世代数](./discrete-mathematics/modern-algebra/readme.md)
+        + [半群 & 幺半群](./discrete-mathematics/modern-algebra/semigroup.md)
+        + [群](./discrete-mathematics/modern-algebra/group.md)
     - [真题](./discrete-mathematics/asked-questions.md)
 
 
