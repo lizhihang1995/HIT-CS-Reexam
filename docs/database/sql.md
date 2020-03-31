@@ -4,6 +4,13 @@
 
 ## 🔍 SQL 概述
 
+🎯 **题型：**
+
+1. **数据查询、操纵、定义、控制的SQL语句。**
+2. **模糊查询、结果排序、分组、去重。**
+
+---
+
 🎨 SQL 语言组成部分：
 
 - __DDL__：(定义)Create、Alter、Drop。
@@ -63,6 +70,14 @@
 ---
 
 ## 📚 复杂查询 & 视图
+
+🎯 **题型：**
+
+1. **子查询(嵌套查询)。**
+2. **Update、Group by、Having、Not in。**
+3. **视图。**
+
+---
 
 <center><img src="./image/complicated-query.png" width="500"></center>
 ### 🎆 复杂查询

@@ -2,6 +2,18 @@
 
 [TOC]
 
+🎯 **题型：**
+
+**表示各种关系的方法(一对一、多对多、一对多)：**
+
+- **E-R 图**
+  - Chen 方法
+  - Crow's Foot 方法
+
+- **IDEF1x 图**
+  - **实体**
+  - **联系**
+
 ## 📚 思想与方法
 
 **数据模型 vs 概念模型**：
@@ -33,15 +45,12 @@ E-R 模型基本思想：世界是由一组称作 **实体** 的基本对象和�
 示例：
 
 <center><img src="./image/chen-method.png" width="600"></center>
-
 **crow's foot 方法** 对联系基数的表达：
 
 <center><img src="./image/crow-1.png" width="500"></center>
-
 **crow's foot 方法示例：**
 
 <center><img src="./image/crow-2.png" width="700"></center>
-
 ---
 
 📑 **习题**：
@@ -58,7 +67,6 @@ E-R 模型基本思想：世界是由一组称作 **实体** 的基本对象和�
 ## 🪓 工程化方法IDEF1x
 
 <center><img src="./image/idef-summary.png" width="550"></center>
-
 **基本概念**：
 
 - 实体：
@@ -122,7 +130,6 @@ E-R 模型基本思想：世界是由一组称作 **实体** 的基本对象和�
 **IDEF1x 建模示例：**
 
 <center><img src="./image/idef-example-1.png" width="400"></center>
-
  **IDEF1x 读图：**
 
 ✅ **实体** 能否用 **“一个个”** 修饰——否则就不是实体。

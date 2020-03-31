@@ -35,6 +35,7 @@
     - [动态规划](./algorithm/dynamic-programming.md)
     - [贪心算法](./algorithm/greedy-algorithm.md)
     - [回溯法 & 分支定界法](./algorithm/backtracking.md)
+    - [考点总结](./algorithm/faq.md)
 
 ---
 
@@ -54,5 +55,6 @@
         + [半群 & 幺半群](./discrete-mathematics/modern-algebra/semigroup.md)
         + [群](./discrete-mathematics/modern-algebra/group.md)
     - [真题](./discrete-mathematics/asked-questions.md)
+    - [试题](./discrete-mathematics/faq.md)
 
 

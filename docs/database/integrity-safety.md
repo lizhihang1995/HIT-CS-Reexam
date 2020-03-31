@@ -2,6 +2,13 @@
 
 [TOC]
 
+🎯 **题型：**
+
+1. **安全性控制**
+2. **完整性约束**
+
+---
+
 ## 🌕 数据库完整性
 
 **完整性概念**：正确性、有效性、一致性。
@@ -39,9 +46,7 @@
 **动态约束**
 
 <center><img src="./image/trigger-1.png" width="550"></center>
-
 <center><img src="./image/trigger-2.png" width="550"></center>
-
 ---
 
 ## 🔐 数据库安全性
