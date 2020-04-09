@@ -11,6 +11,8 @@
     - [字符串](./c/string.md)
     - [指针和数组的关系](./c/pointer-array.md)
     - [结构体和共用体](./c/struct-union.md)
+    - [真题——编程](./c/asked-questions/programming.md)
+    - [真题——改错](./c/asked-questions/correct.md)
    
 ---
 
@@ -57,4 +59,15 @@
     - [真题](./discrete-mathematics/asked-questions.md)
     - [试题](./discrete-mathematics/faq.md)
 
+---
+
+* [编译原理入门](./compilation-principle/compilation-principle.md)
+
+---
+
+* [操作系统入门](./operating-system/operating-system.md)
+
+---
+
+* [数学之美笔记](./npl/the-beauty-of-mathmatics-note.md)
 
