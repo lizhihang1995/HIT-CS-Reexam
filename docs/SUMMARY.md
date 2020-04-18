@@ -13,7 +13,13 @@
     - [结构体和共用体](./c/struct-union.md)
     - [真题——编程](./c/asked-questions/programming.md)
     - [真题——改错](./c/asked-questions/correct.md)
-   
+    - [杭电 OJ 刷题记录](./c/HDOJ/readme.md)
+      - [Day 1 & Day 2](./c/HDOJ/HDOJ-Day1&Day2.md)
+      - [Day3](./c/HDOJ/day3.md)
+      - [Day4](./c/HDOJ/day4.md)
+      - [Day5](./c/HDOJ/day5.md)
+      - [Day6](./c/HDOJ/day6.md)
+
 ---
 
 * [数据库](./database/readme.md)
@@ -69,5 +75,12 @@
 
 ---
 
-* [数学之美笔记](./npl/the-beauty-of-mathmatics-note.md)
+* [数学之美笔记](./npl/the-beauty-of-mathematics-note.md)
 
+---
+
+* [Python 基础](./python-basics.md)
+
+---
+
+* [Linux 基础](./linux-basics.md)

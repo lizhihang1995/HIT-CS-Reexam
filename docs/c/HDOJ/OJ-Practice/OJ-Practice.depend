@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586240505 source:c:\users\moveon\desktop\oj-practice\main.c
+	<stdio.h>
+	<math.h>
+
