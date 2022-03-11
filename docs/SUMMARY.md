@@ -47,7 +47,7 @@
 
 ---
 
-* [离散数学](./discrete-mathematics/README.md)
+* [离散数学](./discrete-mathematics/readme.md)
     - [集合论](./discrete-mathematics/set-theory/readme.md)
         + [集合及其运算](./discrete-mathematics/set-theory/set-operation.md)
         + [映射](./discrete-mathematics/set-theory/mapping.md)
@@ -63,11 +63,10 @@
         + [半群 & 幺半群](./discrete-mathematics/modern-algebra/semigroup.md)
         + [群](./discrete-mathematics/modern-algebra/group.md)
     - [真题](./discrete-mathematics/asked-questions.md)
-    - [试题](./discrete-mathematics/faq.md)
 
 ---
 
-* [编译原理入门](./compilation-principle/compilation-principle.md)
+* [编译原理入门](./compilation-principle/compilation.md)
 
 ---
 
@@ -75,7 +74,7 @@
 
 ---
 
-* [数学之美笔记](./npl/the-beauty-of-mathematics-note.md)
+* [数学之美笔记](./NPL/the-beauty-of-mathematics-note.md)
 
 ---
 
